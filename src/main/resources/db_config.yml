@@ -1,0 +1,4 @@
+database:
+  url: jdbc:mysql://localhost:3306/mydatabase
+  username: root
+  password: password

@@ -1,0 +1,9 @@
+name: MineData
+version: '1.0-SNAPSHOT'
+main: me.aldogarza.minedata.MainClass
+api-version: '1.21'
+prefix: minedata
+load: STARTUP
+authors: [ Aldo Garza ]
+description: Save and manage player data
+website: https://github.com/aldogarza
